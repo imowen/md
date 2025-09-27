@@ -28,9 +28,6 @@ function openFundDialog() {
       <MenubarCheckboxItem @click="openAboutDialog()">
         关于
       </MenubarCheckboxItem>
-      <MenubarCheckboxItem @click="openFundDialog()">
-        赞赏
-      </MenubarCheckboxItem>
     </MenubarSubContent>
   </MenubarSub>
 
